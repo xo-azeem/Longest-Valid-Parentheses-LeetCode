@@ -27,5 +27,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Longest-Valid-Parentheses-LeetCode/assets/171427226/0417a8d4-cf0b-445e-969a-aff81f2fdee0)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>
